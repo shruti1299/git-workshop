@@ -1,2 +1,2 @@
 conflict
-master
+child
